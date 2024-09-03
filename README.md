@@ -17,3 +17,5 @@ Feature selection
 
 
 # pickle.dump(similarity,open('similarity.pkl','wb')) --> dump the code to use the pre-proccesed data to start the Movie Recommender System
+
+**NOTE THE FOLLOWING**
